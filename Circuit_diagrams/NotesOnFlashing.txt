@@ -1,1 +1,1 @@
-Possible to flash with NodeMCU. -> Disable onboard ESP and connect new ESP to NodeMCU board with same pins. 
+Might be possible to flash with NodeMCU. -> Disable onboard ESP and connect new ESP to NodeMCU board with same pins. 
