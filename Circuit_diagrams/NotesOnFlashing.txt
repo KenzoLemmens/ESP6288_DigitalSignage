@@ -1,1 +1,2 @@
-Possible to flash with NodeMCU. -> Disable onboard ESP and connect new ESP to NodeMCU board with same pins. 
+- Connecting IO02 isn't necessary to flash the ESP8266-12F  
+- Possible to flash with NodeMCU. -> Disable onboard ESP and connect new ESP to NodeMCU board with same pins. 
