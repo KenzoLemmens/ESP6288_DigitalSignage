@@ -1,4 +1,9 @@
 Types of ComProts:
 - SPI
 - I2C
+- UART
+- Direct line
 
+
+Displays:
+- ILI9341  
