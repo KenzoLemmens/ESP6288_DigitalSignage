@@ -1,0 +1,4 @@
+Types of ComProts:
+- SPI
+- I2C
+
