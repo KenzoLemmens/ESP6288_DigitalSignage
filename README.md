@@ -1,2 +1,3 @@
 # ESP8266_DigitalSignage
-Testje
+## peripheral used
+* Olimex MOD-LCD2.8RTP
